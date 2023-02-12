@@ -70,3 +70,4 @@ if (hamburger && cola || fries === 3 && nuggets) {
 }
 
 console.log(hamburger && cola || fries === 3 && nuggets); //false. Потому что fries не равно 3! Оно равно NaN
+console.log('Изменение');
